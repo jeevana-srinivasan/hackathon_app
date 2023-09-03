@@ -1,16 +1,2 @@
-# hack
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<title>SpaceMissionExplorer</title>
+<p>SpaceMissionExplorer is an innovative mobile application that serves as a comprehensive platform for space enthusiasts and anyone interested in exploring the missions conducted by the Indian Space Research Organisation (ISRO). This app not only provides a curated collection of posts and updates related to ISRO's space missions but also includes a built-in search feature for easy access to space-related terminology, eliminating the need for external search engines like Google.</p>
